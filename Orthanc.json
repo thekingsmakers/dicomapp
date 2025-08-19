@@ -1,0 +1,6 @@
+﻿{
+  "Name": "Orthanc",
+  "HttpPort": 8042,
+  "AuthenticationEnabled": True,
+  "DicomWeb": { "Enable": true, "Root": "/dicom-web" }
+}
